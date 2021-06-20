@@ -30,6 +30,9 @@ We just covered a lot of information so let's recap briefly, <> provides a handy
 
 What makes deep learning distinctive is a particular class of architectures: the architectures based on neural networks. 
 
+Creating a model that can recognize the content of every individual pixel in an image is called segmentation
+- Like phonology!!
+
 ## Questionnairev
 
 Do you need these for deep learning?
