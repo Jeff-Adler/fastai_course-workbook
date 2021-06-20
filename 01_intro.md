@@ -33,7 +33,11 @@ What makes deep learning distinctive is a particular class of architectures: the
 Creating a model that can recognize the content of every individual pixel in an image is called segmentation
 - Like phonology!!
 
-## Questionnairev
+## Tips
+
+Choose Run All Above from the Cell menu to run all cells above the point where you are
+
+## Questionnaire
 
 Do you need these for deep learning?
 
