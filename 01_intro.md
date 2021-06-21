@@ -33,7 +33,7 @@ What makes deep learning distinctive is a particular class of architectures: the
 Creating a model that can recognize the content of every individual pixel in an image is called segmentation
 - Like phonology!!
 
-Training set vs Evaluation set vs Test set
+Training set vs Validation set vs Test set
 
 ## Tips
 
@@ -70,3 +70,5 @@ Do we always have to use 224×224-pixel images with the cat recognition model?
 What is the difference between classification and regression?
 What is a validation set? What is a test set? Why do we need them?
 What will fastai do if you don't provide a validation set?
+Why is a GPU useful for deep learning? How is a CPU different, and why is it less effective for deep learning?
+Try to think of three areas where feedback loops might impact the use of machine learning. See if you can find documented examples of that happening in practice.
