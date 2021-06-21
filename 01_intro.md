@@ -33,9 +33,13 @@ What makes deep learning distinctive is a particular class of architectures: the
 Creating a model that can recognize the content of every individual pixel in an image is called segmentation
 - Like phonology!!
 
+Training set vs Evaluation set vs Test set
+
 ## Tips
 
 Choose Run All Above from the Cell menu to run all cells above the point where you are
+
+To put it bluntly, if you're a senior decision maker in your organization (or you're advising senior decision makers), the most important takeaway is this: if you ensure that you really understand what test and validation sets are and why they're important, then you'll avoid the single biggest source of failures we've seen when organizations decide to use AI. For instance, if you're considering bringing in an external vendor or service, make sure that you hold out some test data that the vendor never gets to see. Then you check their model on your test data, using a metric that you choose based on what actually matters to you in practice, and you decide what level of performance is adequate. (It's also a good idea for you to try out some simple baseline yourself, so you know what a really simple model can achieve. Often it'll turn out that your simple model performs just as well as one produced by an external "expert"!)
 
 ## Questionnaire
 
