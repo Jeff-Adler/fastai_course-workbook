@@ -43,14 +43,6 @@ To put it bluntly, if you're a senior decision maker in your organization (or yo
 
 ## Questionnaire
 
-Do you need these for deep learning?
-
-Lots of math T / F
-Lots of data T / F
-Lots of expensive computers T / F
-A PhD T / F
-Name five areas where deep learning is now the best in the world.
-
 What was the name of the first device that was based on the principle of the artificial neuron?
 Based on the book of the same name, what are the requirements for parallel distributed processing (PDP)?
 What were the two theoretical misunderstandings that held back the field of neural networks?
